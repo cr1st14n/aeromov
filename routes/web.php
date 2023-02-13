@@ -17,5 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('ruta1', function () {
-    return 'hola mundo choco';
+    $a='laksjdf';
+    return 'hola mundo mundo';
 });
