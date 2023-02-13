@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('ruta1', function () {
-    return 'hola mundo';
+    return 'hola mundo choco';
 });
